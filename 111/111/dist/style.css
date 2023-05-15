@@ -1,4 +1,6 @@
 body {background:#c6e9f7;}
+body {background:#c6e9f7;}
+
 d{ 
 
   background-color: red;
@@ -11,12 +13,12 @@ d{
 
   padding-bottom:50px; 
 
-  margin-top:100px; 
+  margin-top:10px; 
 
-  margin-left:100px; 
+  margin-left:10px; 
 
-  margin-right:100px; 
+  margin-right:10px; 
 
-  margin-bottom:100px;   
+  margin-bottom:10px;   
 
 }
