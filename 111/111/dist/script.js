@@ -6,3 +6,4 @@ var count = 0;
       count+=2;
       counterElement.textContent = count;
     }
+ 
